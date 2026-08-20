@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Ana",
+        "nota": 85,
+        "grupo": "A"
+    },
+    {
+        "nombre": "Carlos",
+        "nota": 72,
+        "grupo": "B"
+    },
+    {
+        "nombre": "Maria",
+        "nota": 91,
+        "grupo": "A"
+    },
+    {
+        "nombre": "Luis",
+        "nota": 68,
+        "grupo": "C"
+    },
+    {
+        "nombre": "Sofia",
+        "nota": 95,
+        "grupo": "B"
+    }
+]
