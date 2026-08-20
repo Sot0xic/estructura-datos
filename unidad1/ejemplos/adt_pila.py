@@ -30,6 +30,7 @@ class PilaArray(ADTPila):
 
     def __init__(self):
         self._elementos = []
+        """lista vacía que representa la pila"""
 
     def apilar(self, elemento):
         """Agrega un elemento en la cima de la pila."""
@@ -103,6 +104,7 @@ def usar_pila(pila):
     pila.apilar(30)
 
     print("Cima:", pila.cima())
+    print("Desapilado:", pila.desapilar())
     print("Desapilado:", pila.desapilar())
     print("Desapilado:", pila.desapilar())
     print("¿Está vacía?:", pila.esta_vacia())
